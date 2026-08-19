@@ -1,2 +1,2 @@
-# AFTA
-Affective Fine Tuning Audio
+# AAFT
+Affective Audio Fine Tuning
